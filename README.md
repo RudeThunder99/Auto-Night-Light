@@ -6,7 +6,7 @@ In my country, the streetlights are controlled manually.Sometimes the individual
 ## Here is the screenshot of my full 3d model:
 <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/f4c050a7-dd82-46c2-b71d-f2391662b5f2" />
 
-## The custom 3d model of LDR sensor:
+## The custom 3d model of LDR/Light sensor:
 <img width="745" height="724" alt="Screenshot 2026-03-11 022344" src="https://github.com/user-attachments/assets/a7b92d2c-a46c-42f3-b9ea-53286c7c1a60" />
 
 ## The 3d model of streetlights used:
@@ -16,7 +16,7 @@ In my country, the streetlights are controlled manually.Sometimes the individual
 | Name of component | Quantity | 
 |:-----|:------:|
 | 4 channel relay module | 1pcs | 
-| LDR Module | 1 pcs |
+| Light Sensor Module | 1 pcs |
 | 4x4 LED Module | 8 pcs (changeable as needed ) |
 | 3 pin JST Jumper wire| 1 pcs|
 | 2 pin JST Jumper wire| 8 pcs (As many LED modules used)|
