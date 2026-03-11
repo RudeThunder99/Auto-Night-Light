@@ -12,10 +12,14 @@ In my country, the streetlights are controlled manually.Sometimes the individual
 ## The 3d model of streetlights used:
 <img width="1915" height="950" alt="Screenshot 2026-03-11 020002" src="https://github.com/user-attachments/assets/6585c143-d560-45cc-88a5-e16c1d600c38" />
 
-# Bill Of Materials Used In This Project:
+## The Wiring Diagram of This Project:
+<img width="943" height="659" alt="image" src="https://github.com/user-attachments/assets/429ac569-9021-42f4-9e53-2fc0092da3fe" />
+
+
+# Bill Of Materials Needed For This Project:
 | Name of component | Quantity | 
 |:-----|:------:|
-| 4 channel relay module | 1pcs | 
+| 1 channel relay module | 1pcs | 
 | Light Sensor Module | 1 pcs |
 | 4x4 LED Module | 8 pcs (changeable as needed ) |
 | 3 pin JST Jumper wire| 1 pcs|
