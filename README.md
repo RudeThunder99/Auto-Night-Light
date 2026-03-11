@@ -22,8 +22,7 @@ In my country, the streetlights are controlled manually.Sometimes the individual
 | 4 channel relay module | 1pcs | 
 | Light Sensor Module | 1 pcs |
 | 4x4 LED Module | 8 pcs (changeable as needed ) |
-| 3 pin JST Jumper wire| 1 pcs|
-| 2 pin JST Jumper wire| 8 pcs (As many LED modules used)|
+| 20cm Female to Female Jumper wires| 1 pcs|
 | Cork Sheet| Depending on the surface area|
 |15cm long, 20mm diameter Aluminium Pole| 8 pcs (Again,as many lights used)|
 |Hot Glue Gun| 1 pcs|
