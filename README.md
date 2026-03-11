@@ -19,7 +19,7 @@ In my country, the streetlights are controlled manually.Sometimes the individual
 # Bill Of Materials Needed For This Project:
 | Name of component | Quantity | 
 |:-----|:------:|
-| 1 channel relay module | 1pcs | 
+| 4 channel relay module | 1pcs | 
 | Light Sensor Module | 1 pcs |
 | 4x4 LED Module | 8 pcs (changeable as needed ) |
 | 3 pin JST Jumper wire| 1 pcs|
