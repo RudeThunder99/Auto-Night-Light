@@ -1,7 +1,7 @@
 # Auto-Night-Light
 Automated street light that light up automatically at night and gets turned off like so in the morning. Uses 5volt 4 channel to recieve digital signals from light sensors and changes the state of the streetlights accordingly, during daytime it keeps the lights off and once night arrives it automatically turns them on.
 # Why I Made This Project:
-In my country, the streetlights are controlled manually. Sometimes the individuals that are responsible for this job are careless and leaves the streetlights on. This concerned me so much as the wastage of electrical energy here is immense. Also, people in my own house forgets to turn the lights of our frontyard once its morning, cause the light being turned on doesnt catches someones attention because of daylight. This simple carelessness causes our electrical bills to spike up. I made this project as a solution to this national as well as personal problem. 
+In my country, the streetlights are controlled manually. Sometimes the individuals that are responsible for this job are careless and leave the streetlights on. This concerned me so much as the wastage of electrical energy here is immense. Also, people in my own house forgets to turn the lights of our frontyard once its morning, cause the light being turned on doesnt catche someones attention because of the daylight. This simple carelessness causes our electrical bills to spike up. I made this project as a solution to this national as well as personal problem. 
 
 ## Here is the screenshot of my full 3d model:
 <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/f4c050a7-dd82-46c2-b71d-f2391662b5f2" />
